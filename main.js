@@ -36,4 +36,4 @@ menu_list_array.push(item);
 }
 
 htmldata=htmldata"</section>"
-document. getElementById("display_menu").innerhtml  = htmldata;
+document. getElementById("display_menu").innerhtml  = htmldata; 
